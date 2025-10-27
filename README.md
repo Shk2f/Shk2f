@@ -5,13 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hendalf-dev&theme=algolia" alt="hendalf-dev" /></a> </p>
 
-- 🌱 Oppimassa tällä hetkellä ja haluan oppia **PHP, Bootstrap**
-
-- 👨‍💻 Voit vähä tutustuu muhun mun webil [hendalf.software](hendalf.software)
-
-- 📄 Sielt löytyy myös mun ceevee [hendalf.software/ceevee](hendalf.software/ceevee)
-
-- ⚡ Hassu fakta **Mun webbi ei oo viel olemas**
+- Haluun kotia
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
