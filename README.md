@@ -14,9 +14,11 @@
 
 - 👨‍💻 All of my projects are available at **[https://prs.bigshkaf.tech](https://prs.bigshkaf.tech)** - CURRENTLY UNAVAILABLE
 
+- 📄 Know about my experiences **[https://cv.bigshkaf.tech/](https://cv.bigshkaf.tech/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Hendalf-DEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Hendalf-DEV" height="30" width="40" /></a>
+<a href="https://github.com/Shk2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shk2f" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/revindani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="revindani" height="30" width="40" /></a>
 </p>
 
