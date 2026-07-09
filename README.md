@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **daniel.revin@icloud.com / I probably wont see your message but you can still try to reach me out**
 
-- 👨‍💻 All of my projects are available at **[https://bigshkaf.tech](https://bigshkaf.tech)**
+- 👨‍💻 All of my projects are available at **[https://prs.bigshkaf.tech](https://prs.bigshkaf.tech)** - CURRENTLY UNAVAILABLE
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
