@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **No current plans**
 
-- 🌱 I'm currently learning **Not interested in new technologies right now**
+- 🌱 I'm currently learning **Not learning currently, but interested to learn NextJS**
 
 - 👯 I'm looking to collaborate on **any project that makes me interested**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **daniel.revin@icloud.com / I probably wont see your message but you can still try to reach me out**
 
-- 👨‍💻 All of my projects are available at **[https://prs.bigshkaf.tech](https://prs.bigshkaf.tech)** - CURRENTLY UNAVAILABLE
+- 👨‍💻 All of my projects are available at **[https://prs.bigshkaf.tech](https://prs.bigshkaf.tech)** - NOW AVAILABLE
 
 - 📄 Know about my experiences **[https://cv.bigshkaf.tech/](https://cv.bigshkaf.tech/)**
 
