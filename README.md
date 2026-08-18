@@ -2,7 +2,7 @@
 
 ### randomly devving things
 
-- 🔭 I'm currently working on **No current plans**
+- 🔭 I'm currently working on **[https://github.com/Shk2f/MetroBot](MetroBot)**
 
 - 🌱 I'm currently learning **Not learning currently, but interested to learn NextJS**
 
