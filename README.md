@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://prs.bigshkaf.tech](https://prs.bigshkaf.tech)** - NOW AVAILABLE
 
-- 📄 Know about my experiences **[https://cv.bigshkaf.tech/](https://cv.bigshkaf.tech/)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/Shk2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Shk2f" height="30" width="40" /></a>
